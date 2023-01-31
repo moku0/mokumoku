@@ -1,5 +1,6 @@
 {
   "name": "mokumoku",
+  "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "@fullcalendar/core": "^5.10.1",
